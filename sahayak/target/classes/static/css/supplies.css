@@ -1,0 +1,21 @@
+/* Add to styles.css or a new CSS file */
+.container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+strong {
+    color: #007bff;
+}
